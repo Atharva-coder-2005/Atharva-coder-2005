@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 I'm a passionate Computer Science undergraduate with a strong interest in problem-solving and software development.<br><br>💻 Proficient in Python, C, C++, Java, and SQL, with hands-on experience using tools like VS Code and Git.<br><br>📊 I enjoy building efficient solutions and have solid analytical and logical thinking skills.<br><br>🏆 Actively solving problems on platforms like CodeChef and LeetCode to strengthen my data structures and algorithms.<br><br>🌱 Currently exploring advanced concepts in Machine Learning and system design.<br><br>🤝 Open to internships, collaborations, and learning opportunities in tech.
-
+     
       
 ## 🌐 Socials:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/atharvakesharwani2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvakesarwani2005@gmail.com) 
